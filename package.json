@@ -1,0 +1,24 @@
+{
+  "name": "qos",
+  "version": "1.0.0",
+  "description": "Quick hack to enable/disable QoS on router through Puppeteer",
+  "main": "qos.js",
+  "dependencies": {
+    "puppeteer": "^3.0.2",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilnarain/qos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilnarain/qos/issues"
+  },
+  "homepage": "https://github.com/sahilnarain/qos#readme"
+}
